@@ -1,0 +1,21 @@
+[{
+        "name": "Muthuvel Stores ",
+        "description": "Local grocery shop located in Titan Township",
+        "owner_name": "Muthuvel",
+        "address": "Muthuvel Stores, Titan Township, Mathigiri, Hosur",
+        "product_category": ["Diary", "Vegetables", "Fruits"],
+        "shop_category": ["Grocery", "Stationary"],
+        "service": ["Delivery"],
+        "status": true
+    },
+    {
+        "name": "Pandian Stores ",
+        "description": "Local grocery shop located in TVS nagar",
+        "owner_name": "Pandian",
+        "address": "Pandian Stores, TVS nagar, Hosur",
+        "product_category": ["Stationary"],
+        "shop_category": ["Stationary"],
+        "service": ["Delivery"],
+        "status": true
+    }
+]
