@@ -1,0 +1,44 @@
+[{
+
+        "product_name": "Pencil",
+        "price": "9",
+        "discount": "5",
+        "product_bio": "This is a pencil",
+        "product_details": "15cm , 1mm pencil",
+        "product_description": "Very good quality, charcoal pencil",
+        "stock": true,
+        "product_category": "Stationary",
+        "replace": true,
+        "return": false,
+        "product_rating": "4",
+        "prodcut_reviews": "Good"
+    },
+    {
+        "product_name": "Suagr",
+        "price": "90",
+        "discount": "10",
+        "product_bio": "Tata Suagr",
+        "product_details": "500g, 20cmx30cm",
+        "product_description": "Very good quality sugar",
+        "stock": true,
+        "product_category": "Grocery",
+        "replace": true,
+        "return": false,
+        "product_rating": "3.5",
+        "prodcut_reviews": "Good"
+    },
+    {
+        "product_name": "Salt",
+        "price": "80",
+        "discount": "10",
+        "product_bio": "Tata Salt",
+        "product_details": "700g, 15cmx20cm",
+        "product_description": "Very good quality salt",
+        "stock": true,
+        "product_category": "Grocery",
+        "replace": true,
+        "return": false,
+        "product_rating": "3",
+        "prodcut_reviews": "Good"
+    }
+]

@@ -1,0 +1,17 @@
+[{
+        "ad_name": "sugar 1+1",
+        "ad_description": "suagr packet buy one get one free",
+        "enable": true
+    },
+    {
+        "ad_name": "pencil 2+1",
+        "ad_description": "pencil buy two get one free",
+        "enable": true
+    },
+    {
+        "ad_name": "20% off",
+        "ad_description": "salt packet 20% off on aadi sale",
+        "enable": true
+
+    }
+]

@@ -1,0 +1,13 @@
+[{
+        "deal_name": "sugar +2",
+        "deal_description": "sugar packets",
+        "discount": "10",
+        "enable": true
+    },
+    {
+        "deal_name": "salt +2",
+        "deal_description": "salt packets",
+        "discount": "15",
+        "enable": true
+    }
+]
